@@ -32,6 +32,12 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
+
+### Usage
+
+```html
+<input type="text" decimal-number-input />
+
 ### And coding style tests
 
 Explain what these tests test and why
