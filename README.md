@@ -37,6 +37,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ```html
 <input type="text" decimal-number-input />
+```
 
 ### And coding style tests
 
